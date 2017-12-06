@@ -28,5 +28,6 @@ h2 {
 
 }
 p {margin:20px auto 10px auto;
-	
+	max-width: 600px;
+
 } 
